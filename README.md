@@ -1,5 +1,6 @@
 # supercon-2023-badge-enclosure
-This is an enclosure for the Hackaday Supercon 2023 Vectorscope badge
+This is an enclosure for the Hackaday Supercon 2023 Vectorscope badge, which appears on GitHub here:
+https://github.com/Hack-a-Day/Vectorscope/tree/main
 
 These files are available for anybody to 3d print, modify, remix, etc. in advance of the 2023 Hackaday Superconference, so that they might have an elegant enclosure for their badge.
 
