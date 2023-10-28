@@ -1,0 +1,4 @@
+It turns out this prints a lot better with the outside down, on the bed, despite the fillets.
+Enabling support interface with a roof and a floor, and a thickness of 1.5mm seems good, on the outside, but not on the joystick, so maybe eliminate some of the support there.
+For some people, the buttons fit perfectly the first time, but I had to lower the size to 95% to get them to move easily. I still had a couple that bound up for some reason. 
+Make sure to leave enough space under the support material for the lanyard hooks, or it can be really difficult to remove.
