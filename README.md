@@ -16,4 +16,4 @@ BASIC-2-HACKING is a double sized version that is designed to fit the badge hack
 
 If you print one and come to the show, I'd really like to get a selfie with you and your version of the badge, or if you are sensitive about your picture, I could just take a selfie with your badge. It was great fun at Supercon, and I hope to see a lot of these at Berlin 2024 as well!
 
-![alt text](https://github.com/softegg/supercon-2023-badge-enclosure/blob/main/BASIC/Renders/Supercon%202023%20Badge%20Enclosure%20-%20Basic.png?raw=true)
+![alt text](BASIC-2/Renders/Supercon%202023%20Badge%20Enclosure%20-%20Basic%20-%202nd%20Draft.png)
